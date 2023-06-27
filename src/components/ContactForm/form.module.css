@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  border: 5px solid rgb(215, 230, 11);
+  background: rgb(110, 199, 132, 80%);
+  width: 400px;
+  padding: 20px;
+}
+
+.addContact {
+  width: 70px;
+  height: 50px;
+}
